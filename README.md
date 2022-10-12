@@ -1,2 +1,2 @@
 # Leetcode-Questions
-Solutions to Leetcode Questions with Algorithm
+Solutions to Interview Questions with Algorithm
