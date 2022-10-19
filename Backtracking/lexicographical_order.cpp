@@ -1,3 +1,4 @@
+#Question Link: https://leetcode.com/problems/lexicographical-numbers
 #Question Description
 /*
 Given a number n, print numbers from 1 to n in dictionary(lexicographical) order.
